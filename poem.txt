@@ -6,6 +6,7 @@ main
 Blue
 Green
 INDIGO
+Recycle! RUYAN
 Unicorn
 Yellow
 Red
